@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="YOLOLive/yololive.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
